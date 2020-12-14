@@ -50,4 +50,5 @@ En annan variant är att lägga till någon form av interaktivitet. Ska man kunn
 
 [Musik](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)? Julmusik? Kan du hitta någon mp3-fil att spela?
 
+(På grund av en grafisk bugg så måste man refresha hemsidan av någon anledning för att bakgrundsbilden ska visas.)
 [Vercelhemsida:](https://julkort-sigma.vercel.app/)
