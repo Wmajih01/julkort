@@ -1,3 +1,5 @@
+//Titta längst ner i README för mer information!
+
 // ------- Setup code, do not change ------
 const MAX_HEIGHT = document.body.clientHeight
 const MAX_WIDTH = document.body.clientWidth
@@ -11,7 +13,7 @@ const ctx = canvas.getContext('2d')
 // ----------------------------------------
 
 var BG  = new Image();
-BG.src = 'https://johannlurf.net/%E2%98%85/johann_lurf_starfilm08.jpg'
+BG.src = 'https://i0.hippopx.com/photos/236/628/945/star-night-sky-starry-sky-preview.jpg';
 //BG
 ctx.drawImage(BG, 0, 0, 300, 140)
 
